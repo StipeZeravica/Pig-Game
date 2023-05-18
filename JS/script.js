@@ -10,7 +10,7 @@ const rollDice = document.querySelector(".btn--roll");
 const hold = document.querySelector(".btn--hold");
 const newGame = document.querySelector(".btn--new");
 
-//set active player variable helper if player===0 player 1 is playing, if player===0 player 2 is playing
+//set active player variable helper if player===0 player 1 is playing, if player===1 player 2 is playing
 let player = 0;
 
 //hide the dice
